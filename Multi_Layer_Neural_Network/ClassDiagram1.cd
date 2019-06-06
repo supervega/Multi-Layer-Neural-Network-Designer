@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Multi_Layer_Neural_Network.Debugger" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Debugger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.DrawingPanel" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAGAAAgACCAAAAQAAEAAAAAAAABAAAAAiAAgEBAAQQ=</HashCode>
+      <FileName>DrawingPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.MainForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0QgERAeNhGAAkLxMgCKzaCYSAkwABKgCkXwMIAAABAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.ImageProcessing" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MIIBiBwAEGiAMRxQVdKBAAMSKpw8FCAAB2NATkIYQ/k=</HashCode>
+      <FileName>ImageProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.Image_Processing" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.Layer" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAiACKBIAAAAQgAAAAIAACAAAAQQRAggE=</HashCode>
+      <FileName>Layer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.Layers_Manager" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCACBARoAAA0SFUAKRGEUgAAggAAAOAAAgCAgAAgQ=</HashCode>
+      <FileName>Layers_Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.Main_Interface" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAAkAAQCQBAABCCACKUQACIAgTAIAIEAgAIIgAAEA=</HashCode>
+      <FileName>Main Interface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.Neuron" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAGDKBQEggQGIEBAACVACEAABQDEgC0AAAigAAgI=</HashCode>
+      <FileName>Neuron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.PCA" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAIAAAACAAAAAIEAAACBAAAAgAAAAAABA=</HashCode>
+      <FileName>PCA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.Program" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multi_Layer_Neural_Network.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

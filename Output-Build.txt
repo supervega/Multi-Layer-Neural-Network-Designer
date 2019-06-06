@@ -1,0 +1,11 @@
+﻿------ Build started: Project: Multi_Layer_Neural_Network, Configuration: Debug Any CPU ------
+C:\Users\cec\Documents\Visual Studio 2008\Projects\Multi_Layer_Neural_Network\Multi_Layer_Neural_Network\PCA.cs(19,36): warning CS0169: The field 'Multi_Layer_Neural_Network.PCA.pca' is never used
+C:\Users\cec\Documents\Visual Studio 2008\Projects\Multi_Layer_Neural_Network\Multi_Layer_Neural_Network\Main Interface.Designer.cs(8,50): warning CS0649: Field 'Multi_Layer_Neural_Network.Main_Interface.components' is never assigned to, and will always have its default value null
+C:\Users\cec\Documents\Visual Studio 2008\Projects\Multi_Layer_Neural_Network\Multi_Layer_Neural_Network\Debugger.Designer.cs(8,50): warning CS0649: Field 'Multi_Layer_Neural_Network.Debugger.components' is never assigned to, and will always have its default value null
+C:\Users\cec\Documents\Visual Studio 2008\Projects\Multi_Layer_Neural_Network\Multi_Layer_Neural_Network\ImageProcessing.Designer.cs(8,50): warning CS0649: Field 'Multi_Layer_Neural_Network.ImageProcessing.components' is never assigned to, and will always have its default value null
+C:\Users\cec\Documents\Visual Studio 2008\Projects\Multi_Layer_Neural_Network\Multi_Layer_Neural_Network\ImageProcessing.cs(21,26): warning CS0169: The field 'Multi_Layer_Neural_Network.ImageProcessing.G' is never used
+C:\Users\cec\Documents\Visual Studio 2008\Projects\Multi_Layer_Neural_Network\Multi_Layer_Neural_Network\ImageProcessing.cs(22,21): warning CS0169: The field 'Multi_Layer_Neural_Network.ImageProcessing.DrawingPen' is never used
+
+Compile complete -- 0 errors, 6 warnings
+  Multi_Layer_Neural_Network -> C:\Users\cec\Documents\Visual Studio 2008\Projects\Multi_Layer_Neural_Network\Multi_Layer_Neural_Network\bin\Debug\Multi_Layer_Neural_Network.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
